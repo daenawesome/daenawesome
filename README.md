@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=100&size=23&duration=3000&pause=1000&color=008529&background=FF000000&vCenter=true&hCenter=true&width=420&lines=Hi+there!+👋;I'm+Daen+Antule!;I'm+a+Web+developer;I'm+a+Front-end+developer;I'm+a+Programmer;I'm+a+Freelancer;I'm+Batman+%3F;I'm+awesome.+.+.+)](https://git.io/typing-svg)
 
-**I'm Daen (he/him/awesome)** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects and produce music in my free time!
+**I'm Daen (he/him/awesome)** - I'm a fullstack developer, programmer, designer, moderator, musician and a student based in the area. I'm interested in development, moderation, and building thriving online communities. I work on random projects and produce music in my free time!
 
 <div align="center">
 
