@@ -10,12 +10,12 @@
 
  ⚡ Fun fact **A Full Stack Developer is often familiar with 4-6 major programming languages and frameworks 🤯**
  
- </div>
-
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/425998848427556874?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/425998848427556874)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/425998848427556874)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/425998848427556874)](https://dev.discordprofiles.me/openspotify/425998848427556874)
+
+ </div>
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -49,10 +49,10 @@
 <details>
   <summary>Github Stats 📊</summary>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=daenawesome&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br>
+  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=daenawesome&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=daenawesome&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+  <!-- <br/> -->
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daenawesome&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 </details>
@@ -61,6 +61,7 @@
 
 <details>
   <summary>Find Me 🔎</summary>
+  <br>
 <div align="center"> 
   <a href="mailto:daen.byu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -71,6 +72,13 @@
   <a href="https://daenawesome.github.io" target="_blank">
      <img src="https://img.shields.io/badge/BYU Studies-002e5d?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+  <a href="https://stackoverflow.com/users/19381725/diznuts" target="_blank">
+     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://codepen.io/daenawesome" target="_blank">
+     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" /> 
+  </a>
+  <br>
   <a href="https://www.instagram.com/nielle.28/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" /> 
   </a>
@@ -80,12 +88,7 @@
   <a href="https://discordapp.com/users/425998848427556874" target="_blank">
      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://stackoverflow.com/users/19381725/diznuts" target="_blank">
-     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /> 
-  </a>
-  <a href="https://codepen.io/daenawesome" target="_blank">
-     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" /> 
-  </a>
+  
 </div>
 </details>
 
